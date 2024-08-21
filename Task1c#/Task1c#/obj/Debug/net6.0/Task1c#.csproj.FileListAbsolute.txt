@@ -1,0 +1,15 @@
+C:\Users\asmaa\Desktop\.net track\رواد مصر\tasks\c# task 1\Task1c#\Task1c#\bin\Debug\net6.0\Task1c#.exe
+C:\Users\asmaa\Desktop\.net track\رواد مصر\tasks\c# task 1\Task1c#\Task1c#\bin\Debug\net6.0\Task1c#.deps.json
+C:\Users\asmaa\Desktop\.net track\رواد مصر\tasks\c# task 1\Task1c#\Task1c#\bin\Debug\net6.0\Task1c#.runtimeconfig.json
+C:\Users\asmaa\Desktop\.net track\رواد مصر\tasks\c# task 1\Task1c#\Task1c#\bin\Debug\net6.0\Task1c#.dll
+C:\Users\asmaa\Desktop\.net track\رواد مصر\tasks\c# task 1\Task1c#\Task1c#\bin\Debug\net6.0\Task1c#.pdb
+C:\Users\asmaa\Desktop\.net track\رواد مصر\tasks\c# task 1\Task1c#\Task1c#\obj\Debug\net6.0\Task1c#.csproj.AssemblyReference.cache
+C:\Users\asmaa\Desktop\.net track\رواد مصر\tasks\c# task 1\Task1c#\Task1c#\obj\Debug\net6.0\Task1c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asmaa\Desktop\.net track\رواد مصر\tasks\c# task 1\Task1c#\Task1c#\obj\Debug\net6.0\Task1c#.AssemblyInfoInputs.cache
+C:\Users\asmaa\Desktop\.net track\رواد مصر\tasks\c# task 1\Task1c#\Task1c#\obj\Debug\net6.0\Task1c#.AssemblyInfo.cs
+C:\Users\asmaa\Desktop\.net track\رواد مصر\tasks\c# task 1\Task1c#\Task1c#\obj\Debug\net6.0\Task1c#.csproj.CoreCompileInputs.cache
+C:\Users\asmaa\Desktop\.net track\رواد مصر\tasks\c# task 1\Task1c#\Task1c#\obj\Debug\net6.0\Task1c#.dll
+C:\Users\asmaa\Desktop\.net track\رواد مصر\tasks\c# task 1\Task1c#\Task1c#\obj\Debug\net6.0\refint\Task1c#.dll
+C:\Users\asmaa\Desktop\.net track\رواد مصر\tasks\c# task 1\Task1c#\Task1c#\obj\Debug\net6.0\Task1c#.pdb
+C:\Users\asmaa\Desktop\.net track\رواد مصر\tasks\c# task 1\Task1c#\Task1c#\obj\Debug\net6.0\Task1c#.genruntimeconfig.cache
+C:\Users\asmaa\Desktop\.net track\رواد مصر\tasks\c# task 1\Task1c#\Task1c#\obj\Debug\net6.0\ref\Task1c#.dll

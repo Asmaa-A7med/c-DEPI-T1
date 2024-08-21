@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xJAgGbUL60PHPmggAJKW/9XSUTicwBA/XYPxPy0Tt7bj6EaZWawSLfR2Z0ekhu/jw2Xtk5I64bVvNgAWr8bqOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asmaa\\Desktop\\.net track\\رواد مصر\\tasks\\c# task 1\\Task1c#\\Task1c#\\Task1c#.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asmaa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\asmaa\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\asmaa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\asmaa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
